@@ -47,7 +47,8 @@ Este portafolio digital constituye una bitácora de aprendizaje de la asignatura
 
 > **[ACCEDER AL PORTAFOLIO DE LA UNIDAD 1](./Unidad_1.md)**
 >
-> 
+>  
+>  
 </details>
 
 <details>
