@@ -135,7 +135,7 @@ La primera unidad establece el lenguaje formal sobre el que se construye toda la
 En la elaboración de este portafolio se ha utilizado **Inteligencia Artificial Generativa** de manera transparente y acotada:
 
 - **Alcance:** Apoyo en la estructuración de documentos Markdown, revisión ortotipográfica y mejora de la claridad en explicaciones técnicas.
-- **Autoría intelectual:** La resolución de todos los ejercicios, la construcción de tablas de verdad, el código en C y el razonamiento lógico aplicado son de autoría propia, verificados manualmente.
+- **Autoría intelectual:** La resolución de todos los ejercicios, la construcción de tablas de verdad, y el razonamiento lógico aplicado son de autoría propia, verificados manualmente.
 - **Principio ético:** La IA actúa como herramienta de presentación y estilo, sin sustituir en ningún momento el proceso de aprendizaje ni el razonamiento exigido por la asignatura.
 
 </details>
