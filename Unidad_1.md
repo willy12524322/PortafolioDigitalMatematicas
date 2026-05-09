@@ -273,7 +273,7 @@ Los siguientes ejercicios cubren los cinco tipos establecidos en la guía de la 
 
 <br>
 
-**Descripción:** Determinar si el siguiente argumento es válido usando reglas de inferencia.
+**Descripción:** Determinar si un argumento es válido o no usando reglas de inferencia.
 
 
 
@@ -355,9 +355,9 @@ El modelo lógico demuestra que el sistema de acceso es **consistente**: no exis
 
 <br>
 
-El concepto que más tiempo me tomó asimilar fue el **condicional lógico** ($p \to q$). Intuitivamente, parece contradictorio que una implicación sea verdadera cuando la premisa es falsa, independientemente del consecuente. ¿Cómo puede ser verdad "si llueve, me mojo" cuando simplemente no llueve?
+El concepto que más tiempo me tomó entender fue el **condicional lógico** ($p \to q$). Intuitivamente, me parece contradictorio que una implicación pueda ser verdadera cuando la premisa es falsa, independientemente del consecuente. ¿Cómo puede ser verdad "si llueve, me mojo" cuando simplemente no llueve?
 
-La clave fue entenderlo no como una relación causal, sino como una **promesa**: la implicación solo se "rompe" si la premisa se cumple y la conclusión no. Si la premisa nunca ocurre, la promesa jamás fue puesta a prueba, por lo tanto sigue siendo válida. Una vez que adopté esa perspectiva, el condicional comenzó a tener pleno sentido, especialmente en el contexto de los `if` en programación.
+La clave para mí fue entenderlo no como una relación causal, sino como una **promesa**: la implicación solo se "rompe" si la premisa se cumple y la conclusión no. Si la premisa nunca ocurre, la "promesa" jamás fue puesta a prueba, por lo tanto sigue siendo válida. Una vez que mentalicé esa perspectiva, el condicional comenzó a tener sentido.
 
 </details>
 
@@ -366,9 +366,8 @@ La clave fue entenderlo no como una relación causal, sino como una **promesa**:
 
 <br>
 
-Las **reglas de inferencia** fueron el tema que encontré más intuitivo y satisfactorio. El Modus Ponens, en particular, refleja exactamente la forma en que razonamos cotidianamente: si sabemos que cierta condición lleva a cierto resultado, y la condición se cumple, entonces el resultado sigue. Identificar ese patrón en argumentos del lenguaje natural y traducirlo a forma simbólica me resultó natural desde el principio.
+Las **reglas de inferencia** fueron el tema que encontré más intuitivo y satisfactorio. El Modus Ponens, en particular, refleja exactamente la forma en que razonamos cotidianamente: si sabemos que cierta condición lleva a cierto resultado, y la condición se cumple, entonces el resultado sigue. Identificar ese patrón en argumentos del lenguaje natural y traducirlo a forma simbólica me resultó bastante natural desde el principio, lo único difícil era memorizarme los nombres.
 
-También fue muy útil descubrir que el Silogismo Hipotético es la base teórica de las cadenas de llamadas en programación: si función A llama a B y B llama a C, entonces A transitivamente depende de C.
 
 </details>
 
@@ -381,7 +380,7 @@ La lógica proposicional tiene aplicaciones directas en al menos tres áreas de 
 
 **Diseño de algoritmos:** Toda estructura de control (`if`, `while`, `switch`) es una proposición compuesta. Saber simplificar condiciones con las leyes de De Morgan o la implicación material permite escribir código más limpio y eficiente.
 
-**Ciberseguridad:** Como evidencié en el ejercicio aplicado, las políticas de acceso y los sistemas de detección de intrusos son modelos lógicos. La verificación formal de que un sistema no tiene "rutas de entrada no autorizadas" es, en esencia, demostrar que ciertas fórmulas son tautologías.
+**Ciberseguridad:** Como se evidenció en el ejercicio aplicado, las políticas de acceso y los sistemas de detección de intrusos son modelos lógicos. La verificación formal de que un sistema no tiene "rutas de entrada no autorizadas" es, en esencia, demostrar que ciertas fórmulas son tautologías.
 
 **Inteligencia Artificial:** Los sistemas basados en reglas y los motores de inferencia —pilares de la IA simbólica— son implementaciones computacionales directas de las reglas de inferencia estudiadas en esta unidad. Entender Modus Ponens es entender cómo razona un sistema experto.
 
@@ -395,14 +394,14 @@ Actividades Práctico-Experimentales desarrolladas durante la unidad:
 
 | # | Actividad | Enlace |
 |:---:|:---|:---:|
-| APE 01 | Lógica y Simbolización | [📄 Ver documento](./Evidencias/APE_01.pdf) |
-| APE 02 | Tablas de Verdad | [📄 Ver documento](./Evidencias/APE_02.pdf) |
-| APE 03 | Leyes Lógicas | [📄 Ver documento](./Evidencias/APE_03.pdf) |
-| APE 04 | Circuitos y Compuertas Lógicas | [📄 Ver documento](./Evidencias/APE_04.pdf) |
-| APE 05 | Reglas de Inferencia | [📄 Ver documento](./Evidencias/APE_05.pdf) |
-| APE 06 | Proyecto Integrador de Unidad | [📄 Ver documento](./Evidencias/APE_06.pdf) |
+| APE 01 | Lógica | [📄 Ver documento](./Evidencias/APES/APE_1_FASE_1.pdf) |
+| APE 02 | Tablas de Verdad | [📄 Ver documento](./Evidencias/APES/APE_1_FASE_2.pdf) |
+| APE 03 | Leyes de inferencia | [📄 Ver documento](./Evidencias/APES/APE_1_FASE_3.pdf) |
+| APE 04 | Compuertas Lógicas | [📄 Ver documento](./Evidencias/APES/APE_1_FASE_4.pdf) |
+| APE 05 | Reglas de Inferencia | [📄 Ver documento](./Evidencias/APES/APE_1_FASE_5.pdf) |
+| APE 06 | Proyecto Integrador de Unidad | [📄 Ver documento](./Evidencias/APES/APE_1_FASE_6.pdf) |
 
-> **Nota:** Los archivos PDF de cada APE se encuentran dentro de la carpeta `Evidencias/` del repositorio.
+> **Nota:** Los archivos PDF de cada APE se encuentran dentro de la carpeta `Evidencias/APES/` del repositorio.
 
 ---
 
