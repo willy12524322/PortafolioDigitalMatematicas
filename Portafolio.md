@@ -7,7 +7,7 @@
 <h4 align="center">Matemáticas Discretas</h4>
 
 <p align="center">
-  <b>Estudiante:</b> [Tu Nombre] <br>
+  <b>Estudiante:</b> Willy Ramírez <br>
   <b>Docente:</b> Ing. Mario Enrique Cueva Hurtado <br>
   <b>Ciclo:</b> 1er Ciclo "A"
 </p>
