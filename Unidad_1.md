@@ -235,18 +235,7 @@ Los siguientes ejercicios cubren los cinco tipos establecidos en la guía de la 
 
 **Descripción:** Análisis exhaustivo de la fórmula $p \to (q \lor \neg p)$ mediante tabla de verdad con todas sus columnas intermedias.
 
-**Variables:** $p$, $q$ → $2^2 = 4$ filas.
-
-| $p$ | $q$ | $\neg p$ | $q \lor \neg p$ | $p \to (q \lor \neg p)$ |
-|:---:|:---:|:---:|:---:|:---:|
-| V | V | F | V | **V** |
-| V | F | F | F | **F** |
-| F | V | V | V | **V** |
-| F | F | V | V | **V** |
-
-**Clasificación:** Contingencia (columna final tiene V y F).
-
-📄 [Ver resolución completa en PDF](./Evidencias/Ejercicio_02_TablaVerdad.pdf)
+📄 [Ver resolución en PDF](./Evidencias/APES/APE_1_FASE_2.pdf)
 
 </details>
 
@@ -310,25 +299,9 @@ Esta fórmula expresa que un condicional y su contrarrecíproco son equivalentes
 
 **Descripción:** Determinar si el siguiente argumento es válido usando reglas de inferencia.
 
-**Argumento:**
-> 1. Si el sistema detecta intrusión, activa la alarma. $(p \to q)$
-> 2. Si activa la alarma, notifica al administrador. $(q \to r)$
-> 3. El sistema detectó una intrusión. $(p)$
-> 4. **∴ El administrador fue notificado.** $(\therefore r)$
 
-**Demostración:**
 
-| Paso | Expresión | Justificación |
-|:---:|:---|:---|
-| 1 | $p \to q$ | Premisa 1 |
-| 2 | $q \to r$ | Premisa 2 |
-| 3 | $p \to r$ | Silogismo Hipotético (1, 2) |
-| 4 | $p$ | Premisa 3 |
-| 5 | $\therefore r$ | Modus Ponens (3, 4) |
-
-**Conclusión: El argumento es válido.** La conclusión se deduce necesariamente de las premisas.
-
-📄 [Ver resolución completa en PDF](./Evidencias/Ejercicio_05_Validacion.pdf)
+📄 [Ver resolución en PDF](./Evidencias/Ejercicio_05_Validacion.pdf)
 
 </details>
 
