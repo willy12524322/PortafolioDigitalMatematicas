@@ -16,15 +16,15 @@
 
 ---
 
-## 📝 Introducción General del Ciclo
+## 📝 Introducción
 Este portafolio digital constituye una bitácora de aprendizaje de la asignatura de **Matemáticas Discretas**. Su propósito es documentar el dominio de la lógica proposicional, las leyes de inferencia y las estructuras discretas, elementos que forman el núcleo del pensamiento computacional. A través de este espacio, se evidencia la capacidad de abstraer problemas del lenguaje natural hacia modelos formales, garantizando el rigor científico necesario para el diseño de algoritmos eficientes en la ingeniería de software.
 
 ---
 
-## 📚 Unidades de Aprendizaje (Evidencias)
+## 📚 Unidades
 
 <details>
-<summary><b>📂 Unidad 1: Lógica Matemática y Proposicional</b></summary>
+<summary><b>📂 Unidad 1 </b></summary>
 
 ### Temas y Evidencias
 **FUNDAMENTOS DE LÓGICA**
@@ -47,18 +47,18 @@ Este portafolio digital constituye una bitácora de aprendizaje de la asignatura
 </details>
 
 <details>
-<summary><b>📂 Unidad 2: Teoría de Conjuntos y Relaciones</b></summary>
+<summary><b>📂 Unidad 2</b></summary>
 
-*Contenido en desarrollo conforme avance el periodo académico.*
+*En espera*
 
   [![Visualizar Unidad 2](https://img.shields.io/badge/ACCEDER%20A%20LA%20UNIDAD_2-CLICK%20AQUÍ-7434eb?style=for-the-badge&logo=rocket&logoColor=white)](./Unidad_2.md)
 
 </details>
 
 <details>
-<summary><b>📂 Unidad 3: Grafos y Árboles </b></summary>
+<summary><b>📂 Unidad 3 </b></summary>
 
-*Contenido en desarrollo conforme avance el periodo académico.*
+*En espera.*
 
   [![Visualizar Unidad 3](https://img.shields.io/badge/ACCEDER%20A%20LA%20UNIDAD_3-CLICK%20AQUÍ-7434eb?style=for-the-badge&logo=rocket&logoColor=white)](./Unidad_3.md)
 
