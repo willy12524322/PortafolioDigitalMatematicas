@@ -233,7 +233,7 @@ Los siguientes ejercicios cubren los cinco tipos establecidos en la guía de la 
 
 <br>
 
-**Descripción:** Análisis exhaustivo de la fórmula $p \to (q \lor \neg p)$ mediante tabla de verdad con todas sus columnas intermedias.
+**Descripción:** Análisis de proposiciones compuestas mediante tabla de verdad con todas sus columnas intermedias.
 
 📄 [Ver resolución en PDF](./Evidencias/APES/APE_1_FASE_2.pdf)
 
@@ -246,8 +246,7 @@ Los siguientes ejercicios cubren los cinco tipos establecidos en la guía de la 
 
 <br>
 
-**Descripción:** Determinar la clasificación de la fórmula $(p \to q) \leftrightarrow (\neg q \to \neg p)$.
-
+**Descripción:** Determinar la clasificación de diferentes proposiciones
 📄 [Ver resolución completa en PDF](./Evidencias/APES/APE_1_FASE_2.pdf)
 
 </details>
