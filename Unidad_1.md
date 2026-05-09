@@ -235,7 +235,7 @@ Los siguientes ejercicios cubren los cinco tipos establecidos en la guía de la 
 
 **Descripción:** Análisis exhaustivo de la fórmula $p \to (q \lor \neg p)$ mediante tabla de verdad con todas sus columnas intermedias.
 
-📄 [Ver resolución en PDF](./Evidencias/APES/APE_1_FASE_2.pdf)
+📄 [Ver resolución en PDF](./Evidencias/APES/APE 1 FASE 2.pdf)
 
 </details>
 
