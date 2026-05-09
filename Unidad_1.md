@@ -248,18 +248,7 @@ Los siguientes ejercicios cubren los cinco tipos establecidos en la guía de la 
 
 **Descripción:** Determinar la clasificación de la fórmula $(p \to q) \leftrightarrow (\neg q \to \neg p)$.
 
-Esta fórmula expresa que un condicional y su contrarrecíproco son equivalentes.
-
-| $p$ | $q$ | $\neg p$ | $\neg q$ | $p \to q$ | $\neg q \to \neg p$ | $(p \to q) \leftrightarrow (\neg q \to \neg p)$ |
-|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-| V | V | F | F | V | V | **V** |
-| V | F | F | V | F | F | **V** |
-| F | V | V | F | V | V | **V** |
-| F | F | V | V | V | V | **V** |
-
-**Clasificación: Tautología** — la columna final es siempre verdadera. Confirma que $p \to q \equiv \neg q \to \neg p$.
-
-📄 [Ver resolución completa en PDF](./Evidencias/Ejercicio_03_Clasificacion.pdf)
+📄 [Ver resolución completa en PDF](./Evidencias/APES/APE_1_FASE_2.pdf)
 
 </details>
 
@@ -272,21 +261,8 @@ Esta fórmula expresa que un condicional y su contrarrecíproco son equivalentes
 
 **Descripción:** Simplificación de la expresión $\neg(\neg p \land q) \lor (p \land \neg q)$ usando leyes lógicas, paso a paso.
 
-**Procedimiento:**
 
-| Paso | Expresión | Ley aplicada |
-|:---:|:---|:---|
-| 0 | $\neg(\neg p \land q) \lor (p \land \neg q)$ | Expresión original |
-| 1 | $(\neg\neg p \lor \neg q) \lor (p \land \neg q)$ | De Morgan |
-| 2 | $(p \lor \neg q) \lor (p \land \neg q)$ | Doble Negación |
-| 3 | $p \lor [\neg q \lor (p \land \neg q)]$ | Asociativa |
-| 4 | $p \lor [(\neg q \lor p) \land (\neg q \lor \neg q)]$ | Distributiva |
-| 5 | $p \lor [(\neg q \lor p) \land \neg q]$ | Idempotencia |
-| 6 | $p \lor \neg q$ | Absorción |
-
-**Resultado:** $\neg(\neg p \land q) \lor (p \land \neg q) \equiv p \lor \neg q$
-
-📄 [Ver resolución completa en PDF](./Evidencias/Ejercicio_04_Leyes.pdf)
+📄 [Ver resolución completa en PDF](./Evidencias/APES/APE_1_FASE_2.pdf)
 
 </details>
 
