@@ -6,69 +6,68 @@
 <h3 align="center">Carrera de Computación</h3>
 <h4 align="center">Matemáticas Discretas</h4>
 
+<p align="center">
+  <b>Estudiante:</b> [Tu Nombre] <br>
+  <b>Docente:</b> Ing. Mario Enrique Cueva Hurtado <br>
+  <b>Ciclo:</b> 1er Ciclo "A"
+</p>
+
 <br>
 
 ---
 
 ## 📝 Introducción General del Ciclo
-Este portafolio digital es un espacio de compilación académica donde se registra el progreso técnico y teórico alcanzado en la asignatura de **Matemáticas Discretas**. Con el fin de demostrar la comprensión y aplicación de los fundamentos de la lógica proposicional, teoría de conjuntos y estructuras discretas, mediante el uso de herramientas digitales y la resolución de algoritmos que fortalezcan el razonamiento lógico necesario en la ingeniería de computación.
+Este portafolio digital constituye una bitácora de aprendizaje de la asignatura de **Matemáticas Discretas**. Su propósito es documentar el dominio de la lógica proposicional, las leyes de inferencia y las estructuras discretas, elementos que forman el núcleo del pensamiento computacional. A través de este espacio, se evidencia la capacidad de abstraer problemas del lenguaje natural hacia modelos formales, garantizando el rigor científico necesario para el diseño de algoritmos eficientes en la ingeniería de software.
 
 ---
 
 ## 📚 Unidades de Aprendizaje (Evidencias)
 
 <details>
-<summary><b>📂 Unidad 1: Lógica Proposicional</b></summary>
+<summary><b>📂 Unidad 1: Lógica Matemática y Proposicional</b></summary>
 
 ### Temas y Evidencias
-**DEFINICIONES BÁSICAS**
-• Conceptos Básicos
-• Terminología Básica
+**FUNDAMENTOS DE LÓGICA**
+• Definición de Proposiciones (Simples y Compuestas)
+• Conectores Lógicos y su Semántica
 
-**LÓGICA**
-• Introducción a la Lógica
-• Tipos Proposiciones
+**OPERACIONES Y TABLAS DE VERDAD**
+• Construcción de Tablas de Verdad
+• Clasificación: Tautologías, Contradicciones y Contingencias
 
-**PROPOSICIONES Y OPERADORES LÓGICOS**
-• Clasificación de las Proposiciones
-• Operadores Lógicos
+**LEYES Y RAZONAMIENTO**
+• Leyes Proposicionales (De Morgan, Doble Negación, Implicación Material)
+• Reglas de Inferencia (Modus Ponens, Modus Tollens, Silogismos)
 
-**PROPOSICIONES CONDICIONALES**
-• Condicional o implicación
-• Bicondicional o equivalencia
+**APLICACIÓN COMPUTACIONAL**
+• Simplificación de condiciones lógicas
+• Verificación de correctitud en algoritmos
 
-**TABLAS DE VERDAD**
-• Construcción de una Tabla de verdad
-• Clasificación de argumentos: tautología, contradicción y
-contingencia
-
-
-  [![Visulizar Unidad 1](https://img.shields.io/badge/ACCEDER%20A%20LA%20UNIDAD_1-CLICK%20AQUÍ-7434eb?style=for-the-badge&logo=rocket&logoColor=white)](./Unidad_1.md)
+  [![Visualizar Unidad 1](https://img.shields.io/badge/ACCEDER%20A%20LA%20UNIDAD_1-CLICK%20AQUÍ-7434eb?style=for-the-badge&logo=rocket&logoColor=white)](./Unidad_1.md)
 </details>
 
 <details>
-<summary><b>📂 Unidad 2: ... </b></summary>
+<summary><b>📂 Unidad 2: Teoría de Conjuntos y Relaciones</b></summary>
 
 *Contenido en desarrollo conforme avance el periodo académico.*
 
-  [![Visulizar Unidad 2](https://img.shields.io/badge/ACCEDER%20A%20LA%20UNIDAD_2-CLICK%20AQUÍ-7434eb?style=for-the-badge&logo=rocket&logoColor=white)](./Unidad_2.md)
+  [![Visualizar Unidad 2](https://img.shields.io/badge/ACCEDER%20A%20LA%20UNIDAD_2-CLICK%20AQUÍ-7434eb?style=for-the-badge&logo=rocket&logoColor=white)](./Unidad_2.md)
 
 </details>
 
 <details>
-<summary><b>📂 Unidad 3: ... </b></summary>
+<summary><b>📂 Unidad 3: Grafos y Árboles </b></summary>
 
 *Contenido en desarrollo conforme avance el periodo académico.*
 
-  [![Visulizar Unidad 3](https://img.shields.io/badge/ACCEDER%20A%20LA%20UNIDAD_3-CLICK%20AQUÍ-7434eb?style=for-the-badge&logo=rocket&logoColor=white)](./Unidad_3.md)
+  [![Visualizar Unidad 3](https://img.shields.io/badge/ACCEDER%20A%20LA%20UNIDAD_3-CLICK%20AQUÍ-7434eb?style=for-the-badge&logo=rocket&logoColor=white)](./Unidad_3.md)
 
 </details>
 
 ---
 
-
 ## 🏁 Conclusiones Generales
-> *Esta sección se encuentra actualmente en desarrollo y se completará al finalizar el ciclo académico.*
+> *Esta sección se encuentra actualmente en desarrollo y se completará al finalizar el ciclo académico, integrando los resultados de las tres unidades de aprendizaje.*
 
 ---
 
@@ -76,31 +75,30 @@ contingencia
 <summary><b>📚 Ver Bibliografía (Formato IEEE)</b></summary>
 <br>
 
+[1] O. Levin, *Discrete Mathematics: An Open Introduction*, 4.ª ed. Colorado: University of Northern Colorado, 2022.
 
-[1]	M. L. Ortiz, *Lógica de Programación*, 1.ª ed. Bogotá: Ediciones de la U, 2017. [Texto guía utilizado para el diseño de diagramas de flujo y pseudocódigo].
+[2] R. P. Grimaldi, *Matemáticas Discreta y Combinatoria*, 5.ª ed. México: Pearson Educación, 2006.
 
-[2]	S. J. Free Software Foundation, *Manual de referencia de GCC*, 2024. [En línea]. Disponible en: https://gcc.gnu.org/onlinedocs/ [Consultado: 03-may-2026].
-
-[3]	Universidad Nacional de Loja, *Guía de contenidos de Matemáticas Discretas: Unidad 1*, Loja, Ecuador: Facultad de la Energía, las Industrias y los Recursos Naturales No Renovables, 2026.
+[3] M. E. Cueva Hurtado, *Guía de Actividades Práctico-Experimentales (APE): Unidad 1*, Loja, Ecuador: Universidad Nacional de Loja, 2026.
 </details>
 
 <details>
 <summary><b>🤖 Ver Declaración de Uso de IA Generativa</b></summary>
 <br>
 
-En la elaboración de este portafolio digital, se ha hecho uso de herramientas de **Inteligencia Artificial Generativa** (como Gemini y ChatGPT) bajo las siguientes condiciones:
+En la elaboración de este portafolio digital, se ha empleado **Inteligencia Artificial Generativa** bajo los siguientes lineamientos:
 
-*   **Finalidad:** Asistente para la estructuración del formato Markdown, corrección de estilo y optimización de explicaciones técnicas.
-*   **Supervisión Humana:** Todo el código fuente en C, los ejercicios lógicos y las reflexiones son de autoría propia, validados manualmente.
-*   **Ética Académica:** La IA ha servido como soporte de presentación, sin sustituir el razonamiento lógico requerido en la asignatura.
+* **Finalidad:** Soporte en la estructuración de documentos Markdown, revisión ortográfica y optimización de la claridad en explicaciones técnicas de lógica.
+* **Supervisión Humana:** La resolución de los ejercicios de las guías APE, las tablas de verdad manuales y la lógica de programación en C han sido ejecutadas y validadas directamente por el estudiante.
+* **Ética Académica:** La herramienta actúa como un tutor de formato, manteniendo la integridad del aprendizaje y el razonamiento propio exigido por la carrera de Computación.
 </details>
-
 
 <details>
 <summary><b>🧘 Reflexión de Formación Profesional</b></summary>
 <br>
-  Las Matemáticas Discretas son el lenguaje técnico que permite transformar problemas complejos en soluciones lógicas y eficientes. En el desarrollo profesional, esta asignatura no solo mejora la capacidad de abstracción, sino que proporciona el rigor necesario para diseñar bases de datos, optimizar algoritmos y garantizar la seguridad de los sistemas. En definitiva, su dominio marca la diferencia entre simplemente escribir código y ejercer una ingeniería con bases científicas, permitiéndome enfrentar los desafíos tecnológicos con un pensamiento estructurado y analítico.
+  La lógica proposicional es el cimiento de la ingeniería. Entender que un programa no es más que una cadena de inferencias lógicas permite al futuro ingeniero diseñar sistemas robustos y seguros. Esta asignatura me ha permitido pasar de una programación intuitiva a una basada en el rigor matemático, lo cual es esencial para enfrentar desafíos en áreas como la Inteligencia Artificial y la arquitectura de sistemas complejos.
 </details>
+
 ---
 <div align="center">
 <b>Facultad de la Energía, las Industrias y los Recursos Naturales No Renovables</b><br>
@@ -108,5 +106,3 @@ Loja, Ecuador - 2026
 </div>
 
 ---
-
-**<strong><a href="README.md">***I
