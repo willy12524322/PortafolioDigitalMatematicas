@@ -43,11 +43,13 @@ Este portafolio digital constituye una bitácora de aprendizaje de la asignatura
 • Simplificación de condiciones lógicas
 • Verificación de correctitud en algoritmos
 
-</details>
 <br>
 
 > [!IMPORTANT]
 > **[👉 ACCEDER AL PORTAFOLIO DE LA UNIDAD 1](./Unidad_1.md)**
+> 
+</details>
+
 <details>
 <summary><b>📂 Unidad 2</b></summary>
 
