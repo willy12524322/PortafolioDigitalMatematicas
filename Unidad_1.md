@@ -259,7 +259,7 @@ Los siguientes ejercicios cubren los cinco tipos establecidos en la guía de la 
 
 <br>
 
-**Descripción:** Simplificación de la expresión $\neg(\neg p \land q) \lor (p \land \neg q)$ usando leyes lógicas, paso a paso.
+**Descripción:** Simplificación de expresions usando leyes lógicas, paso a paso.
 
 
 📄 [Ver resolución completa en PDF](./Evidencias/APES/APE_1_FASE_2.pdf)
