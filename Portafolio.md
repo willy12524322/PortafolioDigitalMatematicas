@@ -43,15 +43,16 @@ Este portafolio digital constituye una bitácora de aprendizaje de la asignatura
 • Simplificación de condiciones lógicas
 • Verificación de correctitud en algoritmos
 
-  [![Visualizar Unidad 1](https://img.shields.io/badge/ACCEDER%20A%20LA%20UNIDAD_1-CLICK%20AQUÍ-7434eb?style=for-the-badge&logo=rocket&logoColor=white)](./Unidad_1.md)
 </details>
+<br>
 
+> [!IMPORTANT]
+> **[👉 ACCEDER AL PORTAFOLIO DE LA UNIDAD 1](./Unidad_1.md)**
 <details>
 <summary><b>📂 Unidad 2</b></summary>
 
 *En espera*
 
-  [![Visualizar Unidad 2](https://img.shields.io/badge/ACCEDER%20A%20LA%20UNIDAD_2-CLICK%20AQUÍ-7434eb?style=for-the-badge&logo=rocket&logoColor=white)](./Unidad_2.md)
 
 </details>
 
@@ -60,7 +61,7 @@ Este portafolio digital constituye una bitácora de aprendizaje de la asignatura
 
 *En espera.*
 
-  [![Visualizar Unidad 3](https://img.shields.io/badge/ACCEDER%20A%20LA%20UNIDAD_3-CLICK%20AQUÍ-7434eb?style=for-the-badge&logo=rocket&logoColor=white)](./Unidad_3.md)
+ 
 
 </details>
 
