@@ -221,18 +221,8 @@ Los siguientes ejercicios cubren los cinco tipos establecidos en la guía de la 
 
 **Descripción:** Conversión de enunciados del lenguaje cotidiano a fórmulas lógicas formales, identificando proposiciones simples y conectores implícitos.
 
-**Enunciado de muestra:**
-> "Si el compilador no encuentra errores y el linker tiene acceso a las bibliotecas, entonces el ejecutable se genera correctamente; de lo contrario, el proceso falla."
 
-**Definición de variables:**
-- $p$: El compilador no encuentra errores.
-- $q$: El linker tiene acceso a las bibliotecas.
-- $r$: El ejecutable se genera correctamente.
-- $s$: El proceso falla.
-
-**Expresión simbólica:** $(p \land q) \to r \quad;\quad \neg(p \land q) \to s$
-
-📄 [Ver resolución completa en PDF](./Evidencias/Ejercicio_01_Traduccion.pdf)
+📄 [Ver resolución en PDF](./Evidencias/Ejercicio_01_Traduccion.pdf)
 
 </details>
 
@@ -406,8 +396,6 @@ Esto cubre tres escenarios: falta de carnet, falta de horario, o ambos. En cualq
 **Conclusión:**
 
 El modelo lógico demuestra que el sistema de acceso es **consistente**: no existe combinación de entradas que permita un acceso no autorizado sin activar la respuesta de seguridad. Este tipo de análisis formal es la base del diseño de sistemas de control de acceso en ciberseguridad, donde cada condición de entrada debe estar formalmente especificada y verificada.
-
-📄 [Ver desarrollo completo en PDF](./Evidencias/Ejercicio_Aplicado.pdf)
 
 ---
 
